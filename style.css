@@ -79,6 +79,11 @@ body{
     border-radius: 6px;
     font-size : 15px;
 }
+    .text-box p{
+    color : rgb(89, 149, 205); 
+    font-weight: 800;
+    font-style: italic;
+}
 .schedule::after{
     content : '';
     position: absolute;
