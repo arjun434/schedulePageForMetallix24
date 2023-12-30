@@ -128,7 +128,7 @@ body{
     border-right: 15px solid #fff;
     left: -15px;
 }
-@media screen and(max-width: 600px){
+@media screen and(max-width: 485px){
 
 .schedule{
     margin: 50px auto;
@@ -141,7 +141,9 @@ body{
     padding-left: 40px;
     padding-right: 25px;
 }.text-box{
-    font-size: 8px;
+    position : relative;
+    width : 100%;
+    font-size: 5px;
 }
 .text-box small{
     margin-bottom: 10px;
